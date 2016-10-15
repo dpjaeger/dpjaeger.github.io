@@ -3,3 +3,5 @@ devtools
 slidify
 bitops
 RCurl
+curl
+slidifyLibraries

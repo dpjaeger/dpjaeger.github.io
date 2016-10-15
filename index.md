@@ -23,6 +23,11 @@ The chickwts dataset is from an experiment "to measure and compare the effective
 
 Below is a sample output from the dataset:
 
+
+```r
+head(chickwts)
+```
+
 ```
 ##   weight      feed
 ## 1    179 horsebean
