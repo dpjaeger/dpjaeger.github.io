@@ -3,8 +3,9 @@ title       : Which feed produces the heaviest chickens?
 subtitle    : A study of chicken feeds
 author      : Daniel Jaeger
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : [quiz]            # {mathjax, quiz, bootstrap}
+widgets     : [mathjax, bootstrap, quiz]  # {mathjax, quiz, bootstrap}
 mode        : selfcontained
 
 ---
