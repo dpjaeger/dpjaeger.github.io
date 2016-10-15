@@ -21,7 +21,7 @@ The Shiny tool is located at: https://jaegeda.shinyapps.io/CourseraShiny/
 ## Data used
 The chickwts dataset is from an experiment "to measure and compare the effectiveness of various feed supplements on the growth rate of chickens.  Per documentation in R: "Newly hatched chicks were randomly allocated into six groups, and each group was given a different feed supplement. Their weights in grams after six weeks are given along with feed types."
 
-Below is a sample output from the dataset
+Below is a sample output from the dataset:
 
 ```
 ##   weight      feed
@@ -36,13 +36,14 @@ Below is a sample output from the dataset
 ---
 ## Findings
 
-Sunflower and casein come in with the highest average chicken weight, above 300 grams.  The standard deviation for sunflower is slightly lower than casein.  Horsebean comes in at the lowest average chicken weight, 160 grams with tight standard deviation.
+Sunflower and casein come in with the highest average chicken weight, above 300 grams.  The standard deviation for sunflower is slightly lower than casein.  Horsebean comes in at the lowest average chicken weight, 160 grams with a tight standard deviation.
 
 --- &radio
 ## Question
 
-Now for a quiz question
-Which feed produces the average heaviest chicken weight (using the mentioned dataset)?
+Now for a quiz question:
+
+Which feed produces the heaviest chicken weight (on average, from the mentioned dataset)?
 
 1. meatmeal
 2. horsebean
