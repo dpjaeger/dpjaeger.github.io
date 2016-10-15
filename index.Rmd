@@ -15,6 +15,8 @@ In the associated Shiny tool, we study the effects of chicken feed on chicken we
 
 We will use the R dataset chickwts, a very rich source of information!
 
+The Shiny tool is located at: https://jaegeda.shinyapps.io/CourseraShiny/
+
 ---
 ## Data used
 The chickwts dataset is from an experiment "to measure and compare the effectiveness of various feed supplements on the growth rate of chickens.  Per documentation in R: "Newly hatched chicks were randomly allocated into six groups, and each group was given a different feed supplement. Their weights in grams after six weeks are given along with feed types."
